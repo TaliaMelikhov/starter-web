@@ -11,3 +11,6 @@ More text.
 
 Sample website with plenty of files for demos
 Another line
+
+### Copyright
+2014 Git.Training.
