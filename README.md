@@ -6,6 +6,7 @@ This is a simple website project for showing how to use Git and Github togeteher
 
 This example is to show different parts of Git repo..
 More text.
+stam stam stam
 
 ## Purpose
 
