@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Regina George   regina@george.training   @reginageorge
 
 # THANKS
 
